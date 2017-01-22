@@ -20,7 +20,7 @@ class CorreoController  extends AuthController{
         $email->from(['tienda@tecsup.edu.pe' => 'Tienda Online'])
             ->to('silvana_almeyda@outlook.com')
             ->subject('Correo desde CakePHP 3')
-            ->send('Contenido del correo ...');
+            ->send('Contenido del correo ...Hello!!');
         
        // echo 'Correo enviado';
         //$this->autoRender = false; // Solo para este ejemplo no se usará una vista
