@@ -2,7 +2,7 @@
 <?php  //foreach ($usuarios as $row) { var_dump($row); } ?>
 
 
-<h2>Mantenimiento de Productos desde git</h2>
+<h2>Mantenimiento de Productos desde git prueba2</h2>
 
 <div class="panel panel-primary">
                 <div class="panel-heading">
